@@ -1,0 +1,6 @@
+x = input()
+y = input()
+z = input()
+print('A = {}, B = {}, C = {}'.format(x, y, z))
+print('A = {}, B = {}, C = {}'.format(y, z, x))
+print('A = {}, B = {}, C = {}'.format(z, x, y))

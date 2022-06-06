@@ -1,0 +1,5 @@
+e = input()
+print(e[0:3])
+print(e[4:7])
+print(e[8:11])
+print(e[12:14])

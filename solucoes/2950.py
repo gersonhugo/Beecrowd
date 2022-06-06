@@ -1,0 +1,5 @@
+e = input().split()
+n = int(e[0])
+x = int(e[1])
+y = int(e[2])
+print("{:.2f}".format(n/(x+y)))

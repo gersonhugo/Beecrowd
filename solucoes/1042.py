@@ -1,0 +1,13 @@
+v = input().split()
+v1 = int(v[0])
+v2 = int(v[1])
+v3 = int(v[2])
+i = [v1, v2, v3]
+i.sort()
+print(i[0])
+print(i[1])
+print(i[2])
+print()
+print(v1)
+print(v2)
+print(v3)
